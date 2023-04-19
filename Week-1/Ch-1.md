@@ -77,3 +77,38 @@ Examples of Classification:
 ### Numeric vs. Categorical Features:
 - A numeric feature can take on the range of the following quantitative values: Xmin <= X <= Xmax
 - A categorical feature would be something like, what grade a student is in. It's essentailly a qualitative feature over quantitative. 
+
+# Day 1 Notes
+Tasks / Problems: 
+1. Classification
+2. Regression
+3. Generation
+
+Learning Methods: 
+1. Supervised: Train model on data that we have the answers to so that when data comes in that we don't have the answers to, it knows it. 
+2. Unsupervised: Use an algorithm to find answers / trends in data. You really have to focus on using the right algorithm to make sure that the data extracted is grouped well. 
+3. Reinforcement Learning: It's a reward system essentially. The model does the right thing and it gets a positive reward. ITS NOT A SERIES OF IF ELSE, you let it explore and then in the feedback let it know if what it's doing is helping or hurting. 
+
+
+Models: 
+1. Decision Trees 
+2. Neural Networks -> This is the big one, has been for about 5-6 years, essentially advanced Decision Trees. 
+- Transformers are models essentially. 
+
+Algorithms: 
+1. Back Propogation
+2. Spike Time Dependent Plasticity 
+- Algorithms in this context: How are we changing the parameters of the model
+
+
+- NVIDIA came out with a text to video. 
+
+### AI vs. Machine Learning
+Lots of facets of AI, Machine Learning is a facet of AI. 
+- Machine Learning: Learn to manipulate data from a dataset. 
+- Deep Learning: Deep neural networks. 
+- The universe is not deterministic, even if you understood every single atom in the universe, you still wouldn't know what happens next perfectly, just because there's always an element of randomness. 
+- Agency could be the act of allowing the quantum particles collapsing. You can't observe one single quantum particle. 
+
+### Ensemble Learning:
+- Different models that learn different ways and they correct each other. 
